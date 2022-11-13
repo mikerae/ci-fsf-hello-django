@@ -11,6 +11,18 @@
 <body>
     <h1>Things I need to do: </h1>
 
+    <table>
+
+
+        {% for item in items %}
+        <tr>
+            <td>{{ item.name }}</td>
+            <td>{{ item.done }}</td>
+        </tr>
+        {% endfor %}
+
+    </table>
+
 </body>
 
 </html>
