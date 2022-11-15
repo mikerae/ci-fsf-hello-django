@@ -3,7 +3,7 @@
 # Todo Task Manager (Django Framwork)
 
 ## Live version
-[#You can view a live version of Todo by clicking here:](#)
+[#You can view a live version of Todo by clicking here:](https://mr-django-todo-app.herokuapp.com/)
 
 # Project Description
 Todo is a task manager application.
